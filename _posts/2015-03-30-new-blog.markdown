@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "New blog"
+date:   2015-03-30 00:47:31
+categories: helloworld
+---
+{% highlight scala %}
+object HelloWorld extends App {
+    println "Hello World"
+}
+{% endhighlight %}
