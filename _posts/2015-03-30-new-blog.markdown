@@ -3,6 +3,7 @@ layout: post
 title:  "New blog"
 date:   2015-03-30 00:47:31
 categories: helloworld
+shout: Resolutions, resolutions...
 ---
 # Hello, world!
 The mandatory Hello World, still non derogable when you start writing a blog (more like _restart_, you know).
