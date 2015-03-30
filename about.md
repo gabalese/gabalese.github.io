@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Python (mostly web) developer, Italian living in London.
+Digital enthusiast, Django and Tornado lover also interested in functional programming in Scala.
+Currently working for [Tangent Swnoball](http://www.tangentsnowball.com), with a solid background in the publishing industry where I worked before moving in the United Kingdom.
+You'll find more about me on [my main website](http://www.alese.it) and browsing my latest public repositories on [github](https://github.com/gabalese?tab=repositories).
